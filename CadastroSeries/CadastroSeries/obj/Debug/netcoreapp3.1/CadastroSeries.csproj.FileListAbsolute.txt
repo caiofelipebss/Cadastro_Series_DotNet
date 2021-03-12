@@ -1,0 +1,13 @@
+D:\ADS\DIO\Criando um APP simples de cadastro de séries em .NET\CadastroSeries\CadastroSeries\bin\Debug\netcoreapp3.1\CadastroSeries.exe
+D:\ADS\DIO\Criando um APP simples de cadastro de séries em .NET\CadastroSeries\CadastroSeries\bin\Debug\netcoreapp3.1\CadastroSeries.deps.json
+D:\ADS\DIO\Criando um APP simples de cadastro de séries em .NET\CadastroSeries\CadastroSeries\bin\Debug\netcoreapp3.1\CadastroSeries.runtimeconfig.json
+D:\ADS\DIO\Criando um APP simples de cadastro de séries em .NET\CadastroSeries\CadastroSeries\bin\Debug\netcoreapp3.1\CadastroSeries.runtimeconfig.dev.json
+D:\ADS\DIO\Criando um APP simples de cadastro de séries em .NET\CadastroSeries\CadastroSeries\bin\Debug\netcoreapp3.1\CadastroSeries.dll
+D:\ADS\DIO\Criando um APP simples de cadastro de séries em .NET\CadastroSeries\CadastroSeries\bin\Debug\netcoreapp3.1\CadastroSeries.pdb
+D:\ADS\DIO\Criando um APP simples de cadastro de séries em .NET\CadastroSeries\CadastroSeries\obj\Debug\netcoreapp3.1\CadastroSeries.csprojAssemblyReference.cache
+D:\ADS\DIO\Criando um APP simples de cadastro de séries em .NET\CadastroSeries\CadastroSeries\obj\Debug\netcoreapp3.1\CadastroSeries.AssemblyInfoInputs.cache
+D:\ADS\DIO\Criando um APP simples de cadastro de séries em .NET\CadastroSeries\CadastroSeries\obj\Debug\netcoreapp3.1\CadastroSeries.AssemblyInfo.cs
+D:\ADS\DIO\Criando um APP simples de cadastro de séries em .NET\CadastroSeries\CadastroSeries\obj\Debug\netcoreapp3.1\CadastroSeries.csproj.CoreCompileInputs.cache
+D:\ADS\DIO\Criando um APP simples de cadastro de séries em .NET\CadastroSeries\CadastroSeries\obj\Debug\netcoreapp3.1\CadastroSeries.dll
+D:\ADS\DIO\Criando um APP simples de cadastro de séries em .NET\CadastroSeries\CadastroSeries\obj\Debug\netcoreapp3.1\CadastroSeries.pdb
+D:\ADS\DIO\Criando um APP simples de cadastro de séries em .NET\CadastroSeries\CadastroSeries\obj\Debug\netcoreapp3.1\CadastroSeries.genruntimeconfig.cache
